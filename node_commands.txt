@@ -1,0 +1,7 @@
+1.create folder Node.js
+2.open cmd in that folder
+3.npm init
+   npm install express --save
+4.create index.js (copy from github)
+5.create public folder(copy from github)
+6.node index.js (on cmd)

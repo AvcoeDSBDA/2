@@ -1,0 +1,4 @@
+1.npm install -g @angular/cli
+2.ng new layout
+3.ng serve(for running)
+4.ng g c login(to generate component)

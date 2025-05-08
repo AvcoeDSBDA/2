@@ -1,0 +1,14 @@
+1.docker images
+2.docker ps (container for images)
+3.docker pull openjdk (go to dockerhub for openjdk images)
+4.docker images
+5.docker run --name JAVA -it -d OpenJDK
+6.docker ps
+7.docker exec -it JAVA jshell
+8.int a=10
+9.int b=20
+10.System.out.println(a+b)
+11./exit
+12.docker ps 13.docker container rm Container_id
+13.docker stop Container_id
+14.docker image prune
