@@ -1,0 +1,10 @@
+1.make folder CRUD
+on mongoshell
+1.create db student
+2.use student
+3.db.createcollection('profile')
+4.db.profile.insertOne({name:"",email:"",city:""})
+2.on cmd
+	1.npm init
+	2.npm install mongodb
+3.npm install express
